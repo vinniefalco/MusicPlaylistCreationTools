@@ -1,0 +1,4 @@
+CFBundleName = "ShowPlaylists_Macintosh";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "ShowPlaylists_Macintosh version 1.0 Copyright 2011 Vinnie";
+NSHumanReadableCopyright = "Copyright 2011 Vinnie.";

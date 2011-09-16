@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# Copyright (C) 2001 by Vincent Falco from One Guy Group, Inc.,
+# All Rights Reserved Worldwide.
+# 
+# This file is provided under MIT License
+# http://www.opensource.org/licenses/mit-license.php
+#
+# Stanton SCS.4DJ is a trademark of Stanton Magnetics Inc
+#   http://www.stantondj.com
+#
+# You can find me as "thevinn" in the Stanton SCS.4DJ forums
+#   http://forums.stantondj.com/viewforum.php?f=56
+#
+# -----------------------------------------------------------------------------
+#
+# Simple script to remove all the playlists
+
+cd ../../..
+
+echo "Removing existing playlists:"
+find . -type f -name "*.m3u" -print -delete
+echo
+echo "Finished!"
+
