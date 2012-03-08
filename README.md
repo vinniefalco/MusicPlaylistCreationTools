@@ -5,8 +5,9 @@
 > handle these unusually large collections. Convenient solutions
 > were difficult to find...until now."
 
-<a href="http://github.com/downloads/vinniefalco/MusicPlaylistCreationTools/PlaylistCreationTools.zip">
-<img src="https://github.com/vinniefalco/MusicPlaylistCreationTools/raw/gh-pages/images/DownloadNow_Mac_Win.png"></a>
+<a href="https://github.com/downloads/vinniefalco/MusicPlaylistCreationTools/PlaylistCreationTools.zip">
+<img src="https://github.com/vinniefalco/vinniefalco.github.com/raw/master/images/DownloadNow.png">
+</a>
 
 ### What is this?
 
