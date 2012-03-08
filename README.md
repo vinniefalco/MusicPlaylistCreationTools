@@ -29,7 +29,7 @@ This image shows one example of how music files may be organized
 into folders (on the left) and the playlists that will be created
 after these tools are used (on the right)
 
-<img href="http://oneguygroup-public.googlecode.com/files/ExplorerViews.png">
+<img src="http://oneguygroup-public.googlecode.com/files/ExplorerViews.png">
 
 ### Stanton SCS.4DJ Performance System
 
@@ -40,14 +40,14 @@ a fully integrated computer, software, and controller DJ system for
  mixing, scratching, performing live, and making recordings:
 
 <a href="http://www.stantondj.com/stanton-controllers-systems/scs4dj.html">
-<img href="http://oneguygroup-public.googlecode.com/files/SCS4DJViews.png"></a>
+<img src="http://oneguygroup-public.googlecode.com/files/SCS4DJViews.png"></a>
 
 After following the directions and organizing your folders, this
 is an example of how your newly created playlists would look,
 when you access them through your SCS.4DJ unit:
 
 <a href="http://www.stantondj.com/stanton-controllers-systems/scs4dj.html">
-<img href="http://oneguygroup-public.googlecode.com/files/SCS4DJPlaylists.png"></a>
+<img src="http://oneguygroup-public.googlecode.com/files/SCS4DJPlaylists.png"></a>
 
 ### Terms and Conditions
 Copyright (c) 2011 by One Guy Group, Inc.<br>
